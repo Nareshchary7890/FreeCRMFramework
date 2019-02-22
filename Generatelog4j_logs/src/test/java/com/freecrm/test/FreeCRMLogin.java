@@ -16,6 +16,7 @@ public class FreeCRMLogin {
 	Logger log=Logger.getLogger(FreeCRMLogin.class);
 		
 	WebDriver driver;
+	//added the comments, please validate the comments as when you have queries
 	
 @BeforeMethod
 public void setUp() {
